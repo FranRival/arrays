@@ -8,4 +8,8 @@ console.log(newArray); // Output: [1, 2, 3, 4]
 
 //usar delete con su propia asignacion y luego comparar la matriz y luego eliminar ese valor de la matriz.
 
-//partiremos desde la forma mas basica de js - asinacion de valor por numeros o strings
+//partiremos desde la forma mas basica de js - asinacion de valor por numeros o strings.
+
+//y luego convertir los string en valores. u objetos. 
+
+//que propiedades tienen los objetos.
