@@ -13,3 +13,8 @@ console.log(newArray); // Output: [1, 2, 3, 4]
 //y luego convertir los string en valores. u objetos. 
 
 //que propiedades tienen los objetos.
+
+//luego las variables para modificarlas con freeze.
+
+
+//json.parse y json.stringfy
