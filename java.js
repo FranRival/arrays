@@ -18,3 +18,5 @@ console.log(newArray); // Output: [1, 2, 3, 4]
 
 
 //json.parse y json.stringfy
+
+//luego se utiliza el deepCopy - shallowCopy
