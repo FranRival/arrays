@@ -25,3 +25,15 @@ console.log(newArray); // Output: [1, 2, 3, 4]
 const objeto = {nombre: "Ana", edad: 25};
 const json = JSON.stringify(objeto);
 console.log(json); // '{"nombre":"Ana","edad":25}
+
+const estudiante1 = {
+    name: 'studiante1',
+    age: 18,
+    approveCourses: ['Curso 1'],
+    addCourse(newCourse){
+        console.log('This', this);
+        console.log('This.approveCourses', this.approveCourses);
+        this.approveCourses.push(newCourse)//no se how it works this push and this
+    }
+}
+
