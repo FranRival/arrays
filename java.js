@@ -20,3 +20,8 @@ console.log(newArray); // Output: [1, 2, 3, 4]
 //json.parse y json.stringfy
 
 //luego se utiliza el deepCopy - shallowCopy
+
+//lo stringgifygeamos. 
+const objeto = {nombre: "Ana", edad: 25};
+const json = JSON.stringify(objeto);
+console.log(json); // '{"nombre":"Ana","edad":25}
