@@ -41,3 +41,4 @@ const estudiante1 = {
 //como convertimos objetos en string y string en objetos a usarlos en shallowcopy y getproperties
 
 //assing: para combinar varios objetos en uno solo. los parametros repetidos solo toma los ultimos valores.
+//sho sha no undestand nothing.
