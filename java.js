@@ -39,3 +39,5 @@ const estudiante1 = {
 
 //i got understand more about la clase estudiante1. y su universalidad con el resto de objetos derivados.
 //como convertimos objetos en string y string en objetos a usarlos en shallowcopy y getproperties
+
+//assing: para combinar varios objetos en uno solo. los parametros repetidos solo toma los ultimos valores.
