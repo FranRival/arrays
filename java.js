@@ -42,3 +42,6 @@ const estudiante1 = {
 
 //assing: para combinar varios objetos en uno solo. los parametros repetidos solo toma los ultimos valores.
 //sho sha no undestand nothing.
+
+
+//sho not understand nothing in la funcion de deepCopy.
