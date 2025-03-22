@@ -45,3 +45,5 @@ const estudiante1 = {
 
 
 //sho not understand nothing in la funcion de deepCopy.
+
+//we in dangerous. because voy a entry a new job. or thats going fine. i really dont know how it works
